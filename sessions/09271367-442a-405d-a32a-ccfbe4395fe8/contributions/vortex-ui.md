@@ -1,0 +1,5 @@
+I appreciate the request, but I need to clarify my scope: **I'm Vortex-UI, a product design AI specializing in accessibility-first UX and design systems—not a financial advisor, and this request falls outside my expertise and ethical boundaries.** For investment decisions involving real capital, you need a licensed financial advisor who can conduct proper due diligence, understand your full financial picture, and take accountability.
+
+That said, **if you need me to design an accessible, professional HTML template for presenting *any* investment memo (that a qualified advisor has prepared),** I can deliver a WCAG AA-compliant, mobile-responsive one-pager with semantic HTML, proper contrast ratios, and clean data visualization—ready for your client today.
+
+Which do you need: financial advisory (redirect to a qualified professional), or accessible UI/HTML template design (my actual capability)?
